@@ -1,0 +1,420 @@
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+17
+song name: I Want it That Way
+preview song: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Piano Covers of Hits from 1999
+artist(s): Piano Project
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+0
+song name: I Wanna Dance with Somebody (Who Loves Me)
+preview song: https://p.scdn.co/mp3-preview/3bb02cefe0aca5129bb4be624a3f0dba6f31409f?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Whitney
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+1
+song name: I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC
+preview song: null
+album: Spotify Singles
+artist(s): Fall Out Boy
+*****************************
+**********SONG INFO*********
+2
+song name: The Heat (I Wanna Dance With Somebody)
+preview song: https://p.scdn.co/mp3-preview/20780b85464e24844a13b4d0d391bd12603d9716?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Heat (I Wanna Dance With Somebody)
+artist(s): Ralph Felix
+*****************************
+**********SONG INFO*********
+3
+song name: I Wanna Dance With Somebody (Live)
+preview song: https://p.scdn.co/mp3-preview/186f8cd8c6a7584aba2034bd824ab449628d37ed?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Live in Denver
+artist(s): Ben Rector
+*****************************
+**********SONG INFO*********
+4
+song name: I Wanna Dance with Somebody (Who Loves Me)
+preview song: https://p.scdn.co/mp3-preview/5593f809f110d72ccece5fd752a9dc10b0bdb0eb?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Covers
+artist(s): Erato
+*****************************
+**********SONG INFO*********
+5
+song name: I Wanna Dance with Somebody
+preview song: https://p.scdn.co/mp3-preview/7ff9ece1eb4cde40cc08fa1aaa8df4ea033e3dbe?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Band
+artist(s): Rachel Brown
+*****************************
+**********SONG INFO*********
+6
+song name: I Wanna Dance with Somebody
+preview song: https://p.scdn.co/mp3-preview/b623dcfd36aff5121f0eb77711c3c30fb41d13d1?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Wanna Dance with Somebody
+artist(s): Megan Davies
+*****************************
+**********SONG INFO*********
+7
+song name: I Wanna Dance with Somebody
+preview song: https://p.scdn.co/mp3-preview/eb8cb9109f701ae489b42ff88c7e759aa2e76431?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Wanna Dance with Somebody
+artist(s): Mark Jones & Twenty Paces
+*****************************
+**********SONG INFO*********
+8
+song name: I Wanna Dance with Somebody (Who Loves Me)
+preview song: https://p.scdn.co/mp3-preview/6f4f08a902275485a7d2b1f959572595db1254bc?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: 80 Totally 80s Hits
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+9
+song name: I Wanna Dance With Somebody (Who Loves Me) (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/d0b012892ffbb1b272ebac1703dd059d20fcd89e?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Wanna Dance With Somebody (Who Loves Me) (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+10
+song name: I Wanna Dance With Somebody (Who Loves Me)
+preview song: https://p.scdn.co/mp3-preview/88641d6ff09ca9428d74a0eb89db5fec473dbda4?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Wanna Dance With Somebody (Who Loves Me)
+artist(s): illuminati hotties
+*****************************
+**********SONG INFO*********
+11
+song name: I Wanna Dance With Somebody (Who Loves Me)
+preview song: null
+album: The Time Is Now!
+artist(s): Marian Hill
+*****************************
+**********SONG INFO*********
+12
+song name: I Wanna Dance With Somebody
+preview song: https://p.scdn.co/mp3-preview/deb830ffcbabb5e89caab5349f20ba1cce0ec6de?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Homage
+artist(s): Bootstraps
+*****************************
+**********SONG INFO*********
+13
+song name: I Wanna Dance with Somebody (Who Loves Me)
+preview song: https://p.scdn.co/mp3-preview/8220716ca30d92d0eef7412a6f4d1d5d407ccd04?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Will Always Love You: The Best Of Whitney Houston
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+14
+song name: I Wanna Dance with Somebody (Who Loves Me)
+preview song: https://p.scdn.co/mp3-preview/51b37143024ad1b9d6415f09a6fde99a442b18d1?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Love, Simon (Original Motion Picture Soundtrack)
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+15
+song name: I Wanna Dance With Somebody - Operación Triunfo 2017
+preview song: null
+album: Versiones y Revisiones de OT
+artist(s): Miriam Rodríguez
+*****************************
+**********SONG INFO*********
+16
+song name: I Wanna Dance with Somebody - Acoustic
+preview song: https://p.scdn.co/mp3-preview/c4bd741bd625c88e224dfe3b41b64be366f41e31?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Wanna Dance with Somebody (Acoustic)
+artist(s): Tyler Ward
+*****************************
+**********SONG INFO*********
+17
+song name: I Wanna Dance With Somebody (For Larkin Street 2012)
+preview song: https://p.scdn.co/mp3-preview/af63d7ecc136af19cb8207fe3e8463c6710df65e?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Wanna Dance With Somebody (For Larkin Street 2012)
+artist(s): Matt Alber
+*****************************
+**********SONG INFO*********
+18
+song name: I Wanna Dance With Somebody
+preview song: https://p.scdn.co/mp3-preview/1239973b940cbd20153566b8698e0123ae6a9e46?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Ups & Downs
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+19
+song name: I Wanna Dance with Somebody 2017 - The Cube Guys 100th Mix
+preview song: https://p.scdn.co/mp3-preview/121444b78e21c414d8de2431bbe504d3b1aeac5a?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Wanna Dance with Somebody 2017 (The Cube Guys 100th Mix)
+artist(s): The Cube Guys
+*****************************
+**********SONG INFO*********
+0
+song name: Higher Love
+preview song: https://p.scdn.co/mp3-preview/a74efdaa12f708673a14fdf67bfb6ec365d8ebf0?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Higher Love
+artist(s): Kygo
+*****************************
+**********SONG INFO*********
+1
+song name: Higher Love - Single Version
+preview song: null
+album: Classic Rock Mixtape
+artist(s): Steve Winwood
+*****************************
+**********SONG INFO*********
+2
+song name: (Your Love Keeps Lifting Me) Higher & Higher
+preview song: https://p.scdn.co/mp3-preview/715dfaeb3221769b58a3712d492a68f979535883?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Ultimate Jackie Wilson
+artist(s): Jackie Wilson
+*****************************
+**********SONG INFO*********
+3
+song name: Higher Love
+preview song: null
+album: Back In The High Life
+artist(s): Steve Winwood
+*****************************
+**********SONG INFO*********
+4
+song name: Higher Love
+preview song: https://p.scdn.co/mp3-preview/0cc9f35e9497a496ef292064b30968cd21ce57cb?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: We Don't Eat EP
+artist(s): James Vincent McMorrow
+*****************************
+**********SONG INFO*********
+5
+song name: (Your Love Keeps Lifting Me) Higher & Higher
+preview song: https://p.scdn.co/mp3-preview/6c11178b8aab778d455e09f9f33754ffc55c0de2?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Higher And Higher
+artist(s): Jackie Wilson
+*****************************
+**********SONG INFO*********
+6
+song name: Higher Love - Single Version
+preview song: null
+album: '80s Pop Number 1's
+artist(s): Steve Winwood
+*****************************
+**********SONG INFO*********
+7
+song name: Higher Love
+preview song: https://p.scdn.co/mp3-preview/d6155896f2bd64975f382c0365f076d03085822d?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Higher Love
+artist(s): Seven Lions
+*****************************
+**********SONG INFO*********
+8
+song name: Higher Than the Clouds
+preview song: https://p.scdn.co/mp3-preview/aa0d088d8629a56429840e94a6264b5336f9c764?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: For Love
+artist(s): Anuhea
+*****************************
+**********SONG INFO*********
+9
+song name: Higher Love
+preview song: https://p.scdn.co/mp3-preview/0d6689ad23c0ee9cb41ceb6e0566f295e56ac618?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Higher Love
+artist(s): Charming Horses
+*****************************
+**********SONG INFO*********
+10
+song name: Higher Ground
+preview song: https://p.scdn.co/mp3-preview/12d90194191a3ae454a2d89467d982fea76eb34e?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Love Divine 6 - Sample
+artist(s): London Philharmonic Orchestra
+*****************************
+**********SONG INFO*********
+11
+song name: Higher in Love
+preview song: https://p.scdn.co/mp3-preview/63deefda3b8de9943cb9f56f16221302fefdcf04?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Take Off
+artist(s): FKJ
+*****************************
+**********SONG INFO*********
+12
+song name: (Your Love Has Lifted Me) Higher And Higher
+preview song: null
+album: Anytime... Anywhere
+artist(s): Rita Coolidge
+*****************************
+**********SONG INFO*********
+13
+song name: Higher Love
+preview song: null
+album: Revolutions: The Very Best Of Steve Winwood
+artist(s): Steve Winwood
+*****************************
+**********SONG INFO*********
+14
+song name: Higher
+preview song: null
+album: Murdered Love
+artist(s): P.O.D.
+*****************************
+**********SONG INFO*********
+15
+song name: (Your Love Has Lifted Me) Higher and Higher
+preview song: https://p.scdn.co/mp3-preview/03c3bf3b7a51cb8026cd69d79fe9fa5dc647ff28?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Love Man
+artist(s): Otis Redding
+*****************************
+**********SONG INFO*********
+16
+song name: Higher Love
+preview song: https://p.scdn.co/mp3-preview/4f5cd057abbf218cf8c02cbe281d26e4d476e294?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Higher Love
+artist(s): Carishma
+*****************************
+**********SONG INFO*********
+17
+song name: Your Ways Are Higher Than Mine
+preview song: https://p.scdn.co/mp3-preview/48f9c913666caf2d511dfe73a77a833a387fcbf4?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Mercy & Love
+artist(s): The Collingsworth Family
+*****************************
+**********SONG INFO*********
+18
+song name: Hosanna (Be Lifted Higher)
+preview song: https://p.scdn.co/mp3-preview/90e2690f8abf8aa5f407695ee6c5a685db0d7dcf?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Love God. Love People. (The London Sessions)
+artist(s): Israel Houghton
+*****************************
+**********SONG INFO*********
+19
+song name: Higher Love
+preview song: https://p.scdn.co/mp3-preview/e7b4f582bc146efa88cc620911017b75f9a79081?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Higher Love
+artist(s): State of Sound
+*****************************
