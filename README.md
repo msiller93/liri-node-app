@@ -11,10 +11,6 @@ movie-this
 
 do-what-it-says
 
-HOW TO USE LIRI
-Video Guide
-https://www.youtube.com/watch?v=ja9taAZVHKs
-
 Step by Step instructions
 Open terminal.
 
