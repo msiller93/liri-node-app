@@ -28,3 +28,12 @@ node liri.js spotify-this-song
 node liri.js movie-this
 
 node liri.js do-what-it-says
+
+
+Command Demonstrations:
+
+- node liri.js do-what-it-says
+
+* ![!](https://github.com/msiller93/liri-node-app/blob/master/node-gifs/do-what-it-says.gif)
+
+
