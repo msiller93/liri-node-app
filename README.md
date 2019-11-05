@@ -36,4 +36,17 @@ Command Demonstrations:
 
 * ![!](https://github.com/msiller93/liri-node-app/blob/master/node-gifs/do-what-it-says.gif)
 
+- node liri.js movie-this
+
+* ![!](https://github.com/msiller93/liri-node-app/blob/master/node-gifs/movie-this.gif)
+
+- node liri.js concert-this
+
+* ![!](https://github.com/msiller93/liri-node-app/blob/master/node-gifs/concert-this.gif)
+
+- node liri.js spotify-this-song
+
+* ![!](https://github.com/msiller93/liri-node-app/blob/master/node-gifs/spotify-this-song.gif)
+
+
 
