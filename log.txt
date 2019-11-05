@@ -418,3 +418,931 @@ preview song: https://p.scdn.co/mp3-preview/e7b4f582bc146efa88cc620911017b75f9a7
 album: Higher Love
 artist(s): State of Sound
 *****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+0
+song name: Bodak Yellow
+preview song: https://p.scdn.co/mp3-preview/cab6e91217590b37cc254585f3f951c5a5280375?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+1
+song name: Yellow
+preview song: https://p.scdn.co/mp3-preview/c119ca773ef844108da21c4679dc54c007cf0926?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Parachutes
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+2
+song name: Yellow Hearts
+preview song: https://p.scdn.co/mp3-preview/4adf84e1ffcd499cf1f270aeaadee4cc1d988855?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Hearts
+artist(s): Ant Saunders
+*****************************
+**********SONG INFO*********
+3
+song name: Black and Yellow
+preview song: https://p.scdn.co/mp3-preview/743b231f046440a6076fef4bb670f133d05651fc?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Rolling Papers
+artist(s): Wiz Khalifa
+*****************************
+**********SONG INFO*********
+4
+song name: Bennie And The Jets - Remastered 2014
+preview song: null
+album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+artist(s): Elton John
+*****************************
+**********SONG INFO*********
+5
+song name: Goodbye Yellow Brick Road - Remastered 2014
+preview song: null
+album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+artist(s): Elton John
+*****************************
+**********SONG INFO*********
+6
+song name: Big Yellow Taxi
+preview song: https://p.scdn.co/mp3-preview/48c0b1294058b0006ceb0cdaf84958cb51da45a7?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Ladies Of The Canyon
+artist(s): Joni Mitchell
+*****************************
+**********SONG INFO*********
+7
+song name: Yellow Ledbetter
+preview song: https://p.scdn.co/mp3-preview/2dda4a4e4664a5dab9db3b2a8b89e37ac923b2b1?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Jeremy
+artist(s): Pearl Jam
+*****************************
+**********SONG INFO*********
+8
+song name: Yellow
+preview song: null
+album: Good For You
+artist(s): Aminé
+*****************************
+**********SONG INFO*********
+9
+song name: Big Yellow Taxi
+preview song: null
+album: Hard Candy
+artist(s): Counting Crows
+*****************************
+**********SONG INFO*********
+10
+song name: Yellow Eyes
+preview song: https://p.scdn.co/mp3-preview/c282eca788994c3d063bff31f8352b08125cab13?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Imaginary Man
+artist(s): Rayland Baxter
+*****************************
+**********SONG INFO*********
+11
+song name: Yellow Box
+preview song: https://p.scdn.co/mp3-preview/c69ca663c268781d15ec3cf0203d8812965929a5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Box
+artist(s): The Neighbourhood
+*****************************
+**********SONG INFO*********
+12
+song name: Yellow (feat. Bekon)
+preview song: https://p.scdn.co/mp3-preview/6047a320ff5dca81e3f76c9d1231a5eab1acb188?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Sailor
+artist(s): Rich Brian
+*****************************
+**********SONG INFO*********
+13
+song name: Yellow Lights
+preview song: null
+album: Yesterday's Tomorrow Night
+artist(s): Harry Hudson
+*****************************
+**********SONG INFO*********
+14
+song name: Single (feat.Omeretta The Great)
+preview song: https://p.scdn.co/mp3-preview/24c572f34390c02c1713074aea0a4fe091c9b7c2?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Tape
+artist(s): Killumantii
+*****************************
+**********SONG INFO*********
+15
+song name: Yellow Submarine - Remastered 2009
+preview song: null
+album: Revolver (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+16
+song name: DJ Turn It Up
+preview song: https://p.scdn.co/mp3-preview/6122811334f20e3ec60ecb213a03aafb482127f6?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Amsterdam Twerk Music
+artist(s): Yellow Claw
+*****************************
+**********SONG INFO*********
+17
+song name: A Little While
+preview song: https://p.scdn.co/mp3-preview/99324fb2036fbce7671c73eeef24a69d8d5057c5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Harmless Melodies
+artist(s): Yellow Days
+*****************************
+**********SONG INFO*********
+18
+song name: We Can Get High
+preview song: https://p.scdn.co/mp3-preview/d1dd55a75d20f700833cab6c0f4ef91ec822e486?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: We Can Get High
+artist(s): Galantis
+*****************************
+**********SONG INFO*********
+19
+song name: Yellow Flicker Beat
+preview song: null
+album: Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)
+artist(s): Lorde
+*****************************
+**********MOVIE INFO*********
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+********EVENT INFO*******
+0
+Name of the Venue: VUENOS
+Venue Location: 東京都
+Date of the Event: 2019-11-09T23:00:00
+*****************************
+********EVENT INFO*******
+1
+Name of the Venue: Travis and Keane
+Venue Location: Monterrey
+Date of the Event: 2019-11-13T19:00:00
+*****************************
+********EVENT INFO*******
+2
+Name of the Venue: Travis and Keane
+Venue Location: Guadalajara
+Date of the Event: 2019-11-15T19:00:00
+*****************************
+********EVENT INFO*******
+3
+Name of the Venue: Corona Capital Festival
+Venue Location: Mexico
+Date of the Event: 2019-11-16T12:00:00
+*****************************
+********EVENT INFO*******
+0
+Name of the Venue: VUENOS
+Venue Location: 東京都
+Date of the Event: 2019-11-09T23:00:00
+*****************************
+********EVENT INFO*******
+1
+Name of the Venue: Travis and Keane
+Venue Location: Monterrey
+Date of the Event: 2019-11-13T19:00:00
+*****************************
+********EVENT INFO*******
+2
+Name of the Venue: Travis and Keane
+Venue Location: Guadalajara
+Date of the Event: 2019-11-15T19:00:00
+*****************************
+********EVENT INFO*******
+3
+Name of the Venue: Corona Capital Festival
+Venue Location: Mexico
+Date of the Event: 2019-11-16T12:00:00
+*****************************
+**********MOVIE INFO*********
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+**********MOVIE INFO*********
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+**********MOVIE INFO*********
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+**********SONG INFO*********
+0
+song name: Bodak Yellow
+preview song: https://p.scdn.co/mp3-preview/cab6e91217590b37cc254585f3f951c5a5280375?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+1
+song name: Yellow
+preview song: https://p.scdn.co/mp3-preview/c119ca773ef844108da21c4679dc54c007cf0926?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Parachutes
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+2
+song name: Yellow Hearts
+preview song: https://p.scdn.co/mp3-preview/4adf84e1ffcd499cf1f270aeaadee4cc1d988855?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Hearts
+artist(s): Ant Saunders
+*****************************
+**********SONG INFO*********
+3
+song name: Black and Yellow
+preview song: https://p.scdn.co/mp3-preview/743b231f046440a6076fef4bb670f133d05651fc?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Rolling Papers
+artist(s): Wiz Khalifa
+*****************************
+**********SONG INFO*********
+4
+song name: Bennie And The Jets - Remastered 2014
+preview song: null
+album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+artist(s): Elton John
+*****************************
+**********SONG INFO*********
+5
+song name: Goodbye Yellow Brick Road - Remastered 2014
+preview song: null
+album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+artist(s): Elton John
+*****************************
+**********SONG INFO*********
+6
+song name: Big Yellow Taxi
+preview song: https://p.scdn.co/mp3-preview/48c0b1294058b0006ceb0cdaf84958cb51da45a7?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Ladies Of The Canyon
+artist(s): Joni Mitchell
+*****************************
+**********SONG INFO*********
+7
+song name: Yellow Ledbetter
+preview song: https://p.scdn.co/mp3-preview/2dda4a4e4664a5dab9db3b2a8b89e37ac923b2b1?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Jeremy
+artist(s): Pearl Jam
+*****************************
+**********SONG INFO*********
+8
+song name: Yellow
+preview song: null
+album: Good For You
+artist(s): Aminé
+*****************************
+**********SONG INFO*********
+9
+song name: Big Yellow Taxi
+preview song: null
+album: Hard Candy
+artist(s): Counting Crows
+*****************************
+**********SONG INFO*********
+10
+song name: Yellow Eyes
+preview song: https://p.scdn.co/mp3-preview/c282eca788994c3d063bff31f8352b08125cab13?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Imaginary Man
+artist(s): Rayland Baxter
+*****************************
+**********SONG INFO*********
+11
+song name: Yellow Box
+preview song: https://p.scdn.co/mp3-preview/c69ca663c268781d15ec3cf0203d8812965929a5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Box
+artist(s): The Neighbourhood
+*****************************
+**********SONG INFO*********
+12
+song name: Yellow (feat. Bekon)
+preview song: https://p.scdn.co/mp3-preview/6047a320ff5dca81e3f76c9d1231a5eab1acb188?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Sailor
+artist(s): Rich Brian
+*****************************
+**********SONG INFO*********
+13
+song name: Yellow Lights
+preview song: null
+album: Yesterday's Tomorrow Night
+artist(s): Harry Hudson
+*****************************
+**********SONG INFO*********
+14
+song name: Single (feat.Omeretta The Great)
+preview song: https://p.scdn.co/mp3-preview/24c572f34390c02c1713074aea0a4fe091c9b7c2?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Tape
+artist(s): Killumantii
+*****************************
+**********SONG INFO*********
+15
+song name: Yellow Submarine - Remastered 2009
+preview song: null
+album: Revolver (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+16
+song name: DJ Turn It Up
+preview song: https://p.scdn.co/mp3-preview/6122811334f20e3ec60ecb213a03aafb482127f6?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Amsterdam Twerk Music
+artist(s): Yellow Claw
+*****************************
+**********SONG INFO*********
+17
+song name: A Little While
+preview song: https://p.scdn.co/mp3-preview/99324fb2036fbce7671c73eeef24a69d8d5057c5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Harmless Melodies
+artist(s): Yellow Days
+*****************************
+**********SONG INFO*********
+18
+song name: We Can Get High
+preview song: https://p.scdn.co/mp3-preview/d1dd55a75d20f700833cab6c0f4ef91ec822e486?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: We Can Get High
+artist(s): Galantis
+*****************************
+**********SONG INFO*********
+19
+song name: Yellow Flicker Beat
+preview song: null
+album: Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)
+artist(s): Lorde
+*****************************
+**********SONG INFO*********
+0
+song name: Bodak Yellow
+preview song: https://p.scdn.co/mp3-preview/cab6e91217590b37cc254585f3f951c5a5280375?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+1
+song name: Yellow
+preview song: https://p.scdn.co/mp3-preview/c119ca773ef844108da21c4679dc54c007cf0926?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Parachutes
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+2
+song name: Yellow Hearts
+preview song: https://p.scdn.co/mp3-preview/4adf84e1ffcd499cf1f270aeaadee4cc1d988855?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Hearts
+artist(s): Ant Saunders
+*****************************
+**********SONG INFO*********
+3
+song name: Black and Yellow
+preview song: https://p.scdn.co/mp3-preview/743b231f046440a6076fef4bb670f133d05651fc?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Rolling Papers
+artist(s): Wiz Khalifa
+*****************************
+**********SONG INFO*********
+4
+song name: Bennie And The Jets - Remastered 2014
+preview song: null
+album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+artist(s): Elton John
+*****************************
+**********SONG INFO*********
+5
+song name: Goodbye Yellow Brick Road - Remastered 2014
+preview song: null
+album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+artist(s): Elton John
+*****************************
+**********SONG INFO*********
+6
+song name: Big Yellow Taxi
+preview song: https://p.scdn.co/mp3-preview/48c0b1294058b0006ceb0cdaf84958cb51da45a7?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Ladies Of The Canyon
+artist(s): Joni Mitchell
+*****************************
+**********SONG INFO*********
+7
+song name: Yellow Ledbetter
+preview song: https://p.scdn.co/mp3-preview/2dda4a4e4664a5dab9db3b2a8b89e37ac923b2b1?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Jeremy
+artist(s): Pearl Jam
+*****************************
+**********SONG INFO*********
+8
+song name: Yellow
+preview song: null
+album: Good For You
+artist(s): Aminé
+*****************************
+**********SONG INFO*********
+9
+song name: Big Yellow Taxi
+preview song: null
+album: Hard Candy
+artist(s): Counting Crows
+*****************************
+**********SONG INFO*********
+10
+song name: Yellow Eyes
+preview song: https://p.scdn.co/mp3-preview/c282eca788994c3d063bff31f8352b08125cab13?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Imaginary Man
+artist(s): Rayland Baxter
+*****************************
+**********SONG INFO*********
+11
+song name: Yellow Box
+preview song: https://p.scdn.co/mp3-preview/c69ca663c268781d15ec3cf0203d8812965929a5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Box
+artist(s): The Neighbourhood
+*****************************
+**********SONG INFO*********
+12
+song name: Yellow (feat. Bekon)
+preview song: https://p.scdn.co/mp3-preview/6047a320ff5dca81e3f76c9d1231a5eab1acb188?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Sailor
+artist(s): Rich Brian
+*****************************
+**********SONG INFO*********
+13
+song name: Yellow Lights
+preview song: null
+album: Yesterday's Tomorrow Night
+artist(s): Harry Hudson
+*****************************
+**********SONG INFO*********
+14
+song name: Single (feat.Omeretta The Great)
+preview song: https://p.scdn.co/mp3-preview/24c572f34390c02c1713074aea0a4fe091c9b7c2?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Yellow Tape
+artist(s): Killumantii
+*****************************
+**********SONG INFO*********
+15
+song name: Yellow Submarine - Remastered 2009
+preview song: null
+album: Revolver (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+16
+song name: DJ Turn It Up
+preview song: https://p.scdn.co/mp3-preview/6122811334f20e3ec60ecb213a03aafb482127f6?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Amsterdam Twerk Music
+artist(s): Yellow Claw
+*****************************
+**********SONG INFO*********
+17
+song name: A Little While
+preview song: https://p.scdn.co/mp3-preview/99324fb2036fbce7671c73eeef24a69d8d5057c5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Harmless Melodies
+artist(s): Yellow Days
+*****************************
+**********SONG INFO*********
+18
+song name: We Can Get High
+preview song: https://p.scdn.co/mp3-preview/d1dd55a75d20f700833cab6c0f4ef91ec822e486?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: We Can Get High
+artist(s): Galantis
+*****************************
+**********SONG INFO*********
+19
+song name: Yellow Flicker Beat
+preview song: null
+album: Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)
+artist(s): Lorde
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=3348f7b0c0314eed9d5deaad3e28810c
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
